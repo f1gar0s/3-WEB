@@ -1,0 +1,11 @@
+body{
+    background-color: #aaaaaa;
+}
+header{
+    text-align: center;
+    border :3px,#000000, solid;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+}
